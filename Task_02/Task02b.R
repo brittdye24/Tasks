@@ -50,3 +50,14 @@ plot(as.numeric(names(totalFeed)), totalFeed, type="b", pch=16, xlab="age in day
 abline(h=mean(totalFeed), lty=2, col='red')
 dev.off()
 unique(beren3$event)
+#Question 1: Hypothesis number 1 is inappropriate for this data because the amount of food consumed is not recorded. 
+  #Therefore, it is not a measurable quantity to use for this test. Hypothesis 2 is inappropriate because the relationship
+  #being tested is not specified. It also suggests there is an effect of 0 to compare the results to, however there is not. 
+  #Neither of these hypothesis yield tests or data that can be quantitatively measured. 
+#The units for avg Milk are ounces.
+#The value column from beren3 tells the amount of milk consumed in ounces. 
+#Feeds was a vector set by us that specifies which event we are using for the test. It is important because it separates the 
+  #event so we know which one we are currently using. 
+#Question 2: The graph was hard to interpret for me, probably due to an error I do not realize, but the points representing the 
+  #ounce of milk are only on the far left and right sides of the graph with a line going diagonal from one side to the other. 
+  #This makes me think the amount consumed has decreased steadily as Beren gets older however I am unsure. 
