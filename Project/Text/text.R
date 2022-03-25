@@ -1,5 +1,4 @@
-#The data will test the hypothesis of whether butterflies better evolve in the host parasite relationship and live longer when 
-  #with a parasite. 
+#The data will test the hypothesis of whether monarch butterflies of two populations evolve to live better when infected with a parasite.
 
 #The host parasite evolution shows that infected individuals from Miami started to live shorter lives, which may require more research.
 #Monarchs infected with the parasite in Miami did not show changes in longevity as more monarchs were infected. This may suggest the 
