@@ -1,0 +1,1 @@
+#Data used to make the plots came from the "Monarch" and "Longevity" columns from the HAWAII and MIAMI data sets. 
